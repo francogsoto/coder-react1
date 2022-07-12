@@ -11,12 +11,15 @@ const NavBar = () => {
             <ul>
                 <li> <a href="">Inicio</a></li>
                 <li> <a href="">Menu</a>
-                <ul>
+                {/* <ul>
                 <li><a href="">Producto1</a></li>
                 <li><a href="">Producto2</a></li>
-                </ul>
+                </ul> */}
                 </li>
                 <li><a href="">Contacto</a></li>
+                <li><a href="">Nosotros</a></li>
+
+                
             </ul>
         </nav>
     </div>
